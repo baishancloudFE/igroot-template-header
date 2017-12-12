@@ -1,0 +1,27 @@
+{
+  "name": "igroot-template-header",
+  "version": "0.0.1",
+  "description": "igroot顶部模板",
+  "author": "guoqn",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "dva": "^2.1.0",
+    "ercharts": "^0.3.2",
+    "history": "^4.7.2",
+    "igroot": "^0.3.5",
+    "igroot-fetch": "^1.1.7",
+    "lokka": "^1.7.0",
+    "moment": "^2.19.3",
+    "numeral": "^2.0.6",
+    "push.js": "^1.0.5",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-router-dom": "^4.2.2"
+  },
+  "engines": {
+    "node": ">= 6.9.3",
+    "npm": ">= 3"
+  }
+}
