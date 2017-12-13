@@ -8,8 +8,7 @@
     "domain": "localhost",
     "port": 8080,
     "lint": false,
-    "theme": {
-    },
+    "publicPath": "./",
     "dev": {
       "default": {
         "apiDomain": "http://localhost:8080"
